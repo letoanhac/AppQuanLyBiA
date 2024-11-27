@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pmquanlybia", "pmquanlybia\pmquanlybia.csproj", "{80261EB0-907A-4FD8-B443-445DAF4000A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupquanbia", "Setupquanbia\Setupquanbia.vdproj", "{5C1C05FE-C180-4B5B-B32A-8AE97AC09E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80261EB0-907A-4FD8-B443-445DAF4000A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80261EB0-907A-4FD8-B443-445DAF4000A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80261EB0-907A-4FD8-B443-445DAF4000A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80261EB0-907A-4FD8-B443-445DAF4000A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C1C05FE-C180-4B5B-B32A-8AE97AC09E2B}.Debug|Any CPU.ActiveCfg = Debug
+		{5C1C05FE-C180-4B5B-B32A-8AE97AC09E2B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE303A68-11FA-48BA-97F8-FB24B1CA4989}
+	EndGlobalSection
+EndGlobal

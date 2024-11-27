@@ -1,0 +1,11 @@
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\bin\Debug\pmquanlybia.exe.config
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\bin\Debug\pmquanlybia.exe
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\bin\Debug\pmquanlybia.pdb
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.csproj.AssemblyReference.cache
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.Form1.resources
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.Properties.Resources.resources
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.csproj.GenerateResource.cache
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.csproj.CoreCompileInputs.cache
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.exe
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.pdb
+C:\Users\letoa\source\repos\pmquanlybia\pmquanlybia\obj\Debug\pmquanlybia.Form2.resources
